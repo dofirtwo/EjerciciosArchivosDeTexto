@@ -1,0 +1,4 @@
+XXX123,Mazda,Blanco
+ZAQ444,Renault,Rojo
+RRR999,Toyota,Negro
+CCC777,Mazda,Azul
